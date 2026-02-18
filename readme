@@ -1,1 +1,13 @@
-this is the readme
+Ihecs Bac 3 DECO project
+
+In a communication school, third year project in which we were tasked to develop a brand launch strategy for a fictional product. 
+Our designated product is "a game for ultra-thrifty people". 
+We decided to go for an app, directly inspired by duolinguo, on which the user gets hooked by being presented with challenges that earn him points. 
+The challenges are in our case linked to thriftyness and are to that end ways of spending less while getting more. 
+This app was a prototype of the final product and presents its features in a more hands-on approach than slides from a powerpoint. 
+Used only during our final examination, it isn't backed by a data management code and hasn't been given access to the internet. This is indeed a prototype, not a finished product.
+
+What it does achieve is to present a product, a brand identification through colors, a tone of voice and visual identity while also proving our ability to code a near-ready functional product. 
+Were this prototype asked to be made production ready, only minor data management and networking features would need to be added, making it a true, near-finished product. 
+
+Not portable to IoS but if you have an android phone, here is the download link to the pkg file: 
